@@ -10,14 +10,24 @@ like the satisfaction rate dipped under 50% for the first time ever. The leaders
 action fast, hence the need for the data analysis and to find the key areas to focus on for getting
 back on track.
 
+---
+
 ## Problem Statement:
 1. Recommend a data driven strategy for increasing Dano Airlines' satisfaction rate and
 2. Present it in the form of a single page report or dashboard.
+---
 
 ## Analysis:
+### Satisfied Customers
 
 
+### Neutral or Disatisfied Customers
+
+
+---
 
 ## Conclusion and Recommendations:
+
+---
 
 
