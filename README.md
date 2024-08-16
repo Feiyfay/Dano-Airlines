@@ -1,7 +1,8 @@
 # Dano-Airlines
 
-![](Introduction_Pic.jpg)
----
+![](Introduction_Pic.jpg) 
+
+--- 
 
 ## Introduction:
 This is a Power Bi project on Data Analyst for Dano Airlines, a Uk-based airline
@@ -15,10 +16,20 @@ back on track.
 ## Problem Statement:
 1. Recommend a data driven strategy for increasing Dano Airlines' satisfaction rate and
 2. Present it in the form of a single page report or dashboard.
+
+---
+
+## Dashboard:
+
+![](Dano_Airline_Dashboard.jpg)
+
 ---
 
 ## Analysis:
 ### Satisfied Customers
+
+
+
 
 
 ### Neutral or Disatisfied Customers
